@@ -1,0 +1,104 @@
+body{
+    background: #000000;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+}
+
+.header{
+    width: 100%;
+}
+
+.header h1{
+    text-align: center;
+}
+
+.imagen-1 img{
+    width: 100%;
+    height: 50%;
+    opacity: 1;
+}
+
+.contenedor-1{
+    width: 80%;
+    height: 70%;
+    background-color: #000000;
+    padding: 4em;
+}
+
+.contenedor-1 .texto{
+    width: 50%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.contenedor-1 .imagen-2{
+    width: 25%;
+    float: right;
+}
+
+.contenedor-1 .imagen-2 img{
+    width: 20em;
+    height: 10em; 
+}
+
+.iconos{
+    width: 90%;
+    height: 60%;
+    background:#1E1A13;
+    padding: 4em;
+
+}
+h3{
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.iconos .icon-1, .iconos .icon-2, .iconos .icon-3{
+    display: inline-block;
+    padding-left: 17em;
+
+}
+.iconos i{
+    padding-left: 40%;
+    padding-bottom: 20%;
+    font-size: 1.5em;
+}
+.galeria{
+    width: 90%;
+    height: 80%;
+    display: inline-block;
+    padding: 5% 5% 5% 5%;
+}
+
+.galeria .imagen-gl{
+    width: 30%;
+    height: fit-content;
+    float: left;
+          
+}
+.galeria .altura{
+    width: 36%;
+    height: 40%;
+}
+.galeria .imagen-gl img{
+    width: 100%; 
+    height: auto;
+    border: 1px solid #ccc;
+      
+}
+.pie{
+    width: 100%;
+    background: #6e695f;
+    padding: 0.5em;
+}
+.pie p{
+    text-align: center;
+}
+
+
+
+
+    
